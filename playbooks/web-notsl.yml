@@ -1,3 +1,4 @@
+#!/usr/bin/env ansible-playbook
 - name: Configure webserver with Nginx
   hosts: webservers
   become: True
