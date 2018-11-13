@@ -1,3 +1,4 @@
 .idea/
 playbooks/.vagrant/
 
+Будет удалено playbooks/web-notsl.retry
